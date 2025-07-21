@@ -1,0 +1,5 @@
+====================
+      DEMO 1
+====================
+
+Take a look at the current worksheet. The cost of production is greatly influenced by the CNY/USD exchange rate. The total cost of production is E7. What would be the value of the CNY/USD exchange rate in D4 and D5 in order to make E7 to be $265.07?

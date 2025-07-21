@@ -1,0 +1,17 @@
+====================
+      DEMO 3
+====================
+
+[from in Excel, open a chat window with Copilot]
+
+- I need to clean the data from the Contest_Entries sheet and put the cleaner version in the Cleaner_Contest_Entries. Can you help me out?
+
+[Try out the formulas that Copilot gives you. If they don't work at first, you might need to follow up with this next prompt]
+
+- Give me the formulas without unnecessary spacing
+
+[If you need further clarification for further instructions, try a prompt like this:]
+
+- Now how do I make it apply to the other rows
+
+[apply Copilot's instructions, and ask questions whenever you need to. There are no silly questions!]

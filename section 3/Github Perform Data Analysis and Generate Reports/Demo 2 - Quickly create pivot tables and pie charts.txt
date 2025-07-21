@@ -1,0 +1,23 @@
+====================
+      DEMO 2
+====================
+
+[from in Excel, open a chat window with Copilot]
+
+- Create a pivot table that shows me total sales by customer
+
+- Now create a pivot table showing our monthly revenue trend
+
+- Now create a pivot table showing unpaid vs paid orders
+
+- Alright, now create a pivot table showing our monthly revenue trend
+
+- Finally, create a pivot table showing our orders by product name. This will help us understand which of our product sell the most and bring in the most revenue
+
+- Now create a pie chart that shows me revenue by city. This will help me understand our most profitable locations and districts
+
+- Now create a pie chart for revenue by delivery method
+
+[VERY IMPORTANT NOTE: Ensure that your columns are properly formatted before executing these prompts. For example, dates must be of the date data type. Prices and totals must be of the number data type, etc. Otherwise, Copilot is likely to give you an error indicating that it cannot complete your request. But even so! If you ever run into an issue, you can actually ask Copilot what's going wrong, and it's entirely possible to reach a solution together]
+
+Expected result: Copilot should easily create a pivot table for each of your requests. If you encounter any issues, consult the note above, or ask Copilot to help you find a solution.

@@ -1,0 +1,14 @@
+====================
+      DEMO 2
+====================
+
+
+
+[from in Teams, open a chat window with Copilot]
+- [Upload files that you want scanned]
+I want you to categorize these expenses into a table with the headers: Date, Employee Name, Trip Destination, Purpose of Trip, Category, Amount (USD), Establishment (where the purchase was made), and Payment Method.
+[Note: If Copilot doesn’t get all of the information correctly the first time, go through the table it provides you and ask for the information again. If necessary, upload that particular file again for analysis. Copilot will struggle more with bulk requests, and will lose accuracy with more data to process all at once]
+
+- What was the total spent on this particular trip?
+
+Expected Result: Copilot should respond with a table that you can then export to whatever format you wish with the requested content categories into the headers you specified in your request. If, for example, you already know which employee provided the receipts, you can instruct Copilot to add that name if it's not apparent by the data you use in your request. Copilot may miss information, which is why the "Establishment" header is important, as this allows you to easily find the missing receipt information and either insert it manually or instruct Copilot to try again.

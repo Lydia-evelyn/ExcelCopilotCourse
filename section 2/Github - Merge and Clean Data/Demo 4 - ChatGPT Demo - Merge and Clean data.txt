@@ -1,0 +1,14 @@
+====================
+      DEMO 4
+====================
+
+[Using ChatGPT]
+
+[upload the files with matching client IDs to ChatGPT]
+- Based upon the client IDs in both of these files, I want you to update the gym_clients.xlsx file with the payment statuses of each client based upon what's in the gym_client_payments.xlsx file
+
+Expected Result: ChatGPT will easily comply and provide a new excel file you can download and use as you wish
+
+[upload the .xlsx file that needs data cleaning]
+
+- I want you to clean the data within. I need the first and last names to follow standard capitalization standards (First Name) and for the dates to follow the dd/mm/yyyy standard. Also, eliminate duplicates.

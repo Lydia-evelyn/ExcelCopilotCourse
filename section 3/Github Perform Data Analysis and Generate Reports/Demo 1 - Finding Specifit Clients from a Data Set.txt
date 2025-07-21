@@ -1,0 +1,15 @@
+====================
+      DEMO 1
+====================
+
+[from in Excel, open a chat window with Copilot]
+
+- Highlight all of the rows with clients that have contracts lasting for more than 12 months
+
+
+- Now format the text in the rows to red if their assigned sales rep is Lydia Evelyn
+
+[Create a new sheet and open it]
+- Use the FILTER function to extract rows from the "Partners Masterlist" where the "Contract Length" is a number greater than 12, and "Assigned Sales Rep" is "Lydia Evelyn"
+
+Expected result: Copilot should provide conditional formatting that will apply the requested changes to your document automatically. You should also get a new pivot table or sheet that contains all of the contact information you requested.

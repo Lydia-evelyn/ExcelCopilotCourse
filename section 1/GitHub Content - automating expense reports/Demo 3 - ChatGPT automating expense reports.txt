@@ -1,0 +1,13 @@
+====================
+      DEMO 3
+====================
+
+
+
+[Using ChatGPT]
+- [Upload files that you want scanned]
+I want you to categorize these expenses into a table with the headers: Date, Employee Name, Trip Destination, Purpose of Trip, Category, Amount (USD), Establishment (where the purchase was made), and Payment Method.
+[Note: If Copilot doesn’t get all of the information correctly the first time, go through the table it provides you and ask for the information again. If necessary, upload that particular file again for analysis. Copilot will struggle more with bulk requests, and will lose accuracy with more data to process all at once]
+
+
+Expected Result: ChatGPT should take some time to analyze the requested files, then provide a .csv or .xlsx file you can then download and upload to your company folders, Excel, or any other application you'd like. ChatGPT is slightly better at performing OCR, and results are less likely to vary as much as with Copilot. However, it's important to keep in mind that Copilot is still in development, and will likely be able to access company documents more easily with time, and won't require uploading files manually as is necessary at time of writing.

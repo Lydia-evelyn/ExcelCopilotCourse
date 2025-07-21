@@ -1,0 +1,8 @@
+====================
+      DEMO 1
+====================
+
+[from in Excel, open a chat window with Copilot]
+- Create two new columns and call them "First names" and "Last Names". Then fill each column with the corresponding first and last names of all of the names within the "Client Name" column
+
+Expected Result: Copilot will easily comply and provide a formula that can be inserted into your document with the click of a button

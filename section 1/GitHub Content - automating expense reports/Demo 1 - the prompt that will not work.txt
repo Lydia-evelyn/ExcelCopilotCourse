@@ -1,0 +1,10 @@
+====================
+      DEMO 1
+====================
+
+//NOTE: THIS PROMPT WILL NOT WORK! THIS IS AN EXAMPLE OF A BAD PROMPT
+
+[from in Excel, open a chat window with Copilot]
+- look in the folder entitled Receipts_Dataset and file the entries from the PDFs in the 2024 folder into this spreadsheet
+
+Expected Result: Failure. Copilot can't access multiple files from within an Excel chat window, nor does it have the permission to directly edit Excel cells. There are several steps being requested in this prompt that Copilot is simply unable to perform. 
